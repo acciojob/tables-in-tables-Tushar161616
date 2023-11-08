@@ -1,2 +1,16 @@
 
 /* Your CSS Code here. */
+table{
+	border:2px solid black;
+}
+th,td{
+	border:2px solid black;
+}
+#black-b{
+	background-color:black;
+	color:white;
+	
+}
+body{
+	text-align:center;
+}
